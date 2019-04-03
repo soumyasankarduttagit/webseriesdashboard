@@ -1,7 +1,7 @@
 {
   "main.css": "/projects/web-series-dashboard/static/css/main.fd114bb1.chunk.css",
-  "main.js": "/projects/web-series-dashboard/static/js/main.43a3bb3a.chunk.js",
-  "main.js.map": "/projects/web-series-dashboard/static/js/main.43a3bb3a.chunk.js.map",
+  "main.js": "/projects/web-series-dashboard/static/js/main.5a456391.chunk.js",
+  "main.js.map": "/projects/web-series-dashboard/static/js/main.5a456391.chunk.js.map",
   "static/css/1.5cbfb410.chunk.css": "/projects/web-series-dashboard/static/css/1.5cbfb410.chunk.css",
   "static/js/1.d6d47286.chunk.js": "/projects/web-series-dashboard/static/js/1.d6d47286.chunk.js",
   "static/js/1.d6d47286.chunk.js.map": "/projects/web-series-dashboard/static/js/1.d6d47286.chunk.js.map",
@@ -14,6 +14,6 @@
   "static/css/main.fd114bb1.chunk.css.map": "/projects/web-series-dashboard/static/css/main.fd114bb1.chunk.css.map",
   "static/css/1.5cbfb410.chunk.css.map": "/projects/web-series-dashboard/static/css/1.5cbfb410.chunk.css.map",
   "index.html": "/projects/web-series-dashboard/index.html",
-  "precache-manifest.4dd3102530212deb08969872a9c7f3e4.js": "/projects/web-series-dashboard/precache-manifest.4dd3102530212deb08969872a9c7f3e4.js",
+  "precache-manifest.5c0340762f840265279a7a471c8e6dab.js": "/projects/web-series-dashboard/precache-manifest.5c0340762f840265279a7a471c8e6dab.js",
   "service-worker.js": "/projects/web-series-dashboard/service-worker.js"
 }

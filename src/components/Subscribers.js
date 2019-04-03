@@ -31,7 +31,7 @@ class Subscribers extends Component {
                     <div className="tile is-6 is-vertical is-parent">
                         <div className="tile is-child box">
                             <p className="sub-caption">Global Subscribers</p>
-                            <p className="is-smaller">Year Wise(In Million)</p>
+                            <p className="is-smaller">Year Wise ( In Million )</p>
                             <Chart datasource={this.props.datasource.subscriptionConfig} />
                         </div>
                         <div className="tile is-child box">

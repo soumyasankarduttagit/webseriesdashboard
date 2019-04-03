@@ -185,6 +185,6 @@ export default {
         showToolTipShadow: "1",
         toolTipPadding: "10",
         anchorRadius: "60",
-        plotToolText: "<b>$seriesName<b></br><b>Genre :</b> $label</br><b>Rating :</b> $Value"
+        plotToolText: "<b>Genre :</b> $label</br><b>Rating :</b> $Value"
     },
 }
